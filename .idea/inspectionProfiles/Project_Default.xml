@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E305" />
+          <option value="E501" />
+          <option value="W292" />
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="nasrat.some_station" />
+          <option value="list.__getitem__" />
+          <option value="lxml.etree.parse" />
+          <option value="lxml.etree" />
+          <option value="main.filters" />
+          <option value="ap.r" />
+          <option value="config.keys" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
